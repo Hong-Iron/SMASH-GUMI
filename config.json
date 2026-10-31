@@ -1,0 +1,97 @@
+{
+  "code": "GUMI",
+  "title": "SMASH GUMI",
+  "school": "구미대",
+  "fullName": "구미대학교",
+  "campusName": "구미대학교",
+  "tagline": "구미대를 부셔 (시험기간 스트레스 해소)",
+  "description": "구미대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 구미대학교 3D 화면과 SMASH GUMI 제목",
+  "url": "https://hong-iron.github.io/SMASH-GUMI/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468939239
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/557580224",
+      "n": "",
+      "why": "항공사진에 없음 — 사진 두 장 모두 이 자리에 초록색으로 칠한 바닥 마당과 나무만 보이고, 건물이 서 있으면 생길 그림자도 없다."
+    },
+    {
+      "id": "way/557580202",
+      "n": "수위실",
+      "why": "항공사진에 없음 — 서쪽 정문 모퉁이의 이 윤곽 자리에는 맨땅과 나무만 보이고 수위실 건물이 없으며, 땅도 하천 부지(597-1)다."
+    },
+    {
+      "at": [
+        36.1483448,
+        128.2906224
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 건설장비 실습 마당의 콘크리트 바닥과 세워 둔 장비만 보이고 지붕이 있는 건물은 없다."
+    },
+    {
+      "at": [
+        36.1518661,
+        128.2873694
+      ],
+      "n": "기숙사식당동",
+      "why": "항공사진에 없음 — 등록 기록 이름은 기숙사식당동이지만, 그 자리는 두 생활관 사이의 나무와 포장된 주차장뿐이고 건물이 없다."
+    }
+  ],
+  "look": {
+    "성실동": {
+      "style": "ribbon",
+      "wall": "#b3b8c2",
+      "glass": "#4e86a8",
+      "frame": "#d6dae0"
+    },
+    "창의관": {
+      "style": "ribbon",
+      "wall": "#d5d9e2",
+      "glass": "#6f7f8f",
+      "frame": "#b4bcc6"
+    },
+    "구미대학교 본관": {
+      "style": "stone",
+      "wall": "#b8bcc8",
+      "glass": "#1f74b0",
+      "frame": "#dde2ea"
+    },
+    "긍지관": {
+      "style": "concrete",
+      "wall": "#78808f",
+      "glass": "#3b4650",
+      "frame": "#a4adbc"
+    },
+    "자동차실습동": {
+      "style": "concrete",
+      "wall": "#9098ab",
+      "glass": "#2a3c40",
+      "frame": "#6b7490"
+    },
+    "남여생활관 신관": {
+      "style": "dorm",
+      "wall": "#9a9aa6",
+      "glass": "#42668a",
+      "frame": "#c8c8cf"
+    },
+    "특수건설장비동": {
+      "style": "tan",
+      "wall": "#85725f",
+      "glass": "#3c6381",
+      "frame": "#cfc9bd"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
